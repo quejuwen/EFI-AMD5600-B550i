@@ -10,4 +10,9 @@ https://pan.baidu.com/s/1rbP84aUw8VQwxxhHEPNCQg 提取码: yhq5
 
 ## 我的配置
 420+668+90+211+99+10+6+188+77+30+38+199=2036元
+
 精粤b550i gaming主板+R5-5600CPU+长城500w电源+舟频32G内存+二手21寸显示器+HDMI线+DVI线+RX580二手显卡+Intel210无线网卡+杂版h2机箱+寒霜400散热+大华1tSSD
+
+## 显卡支持
+通过刷新显卡Bios，将rx580刷成rx570，重启后macos原生支持
+[参见：让 AMD RX580 2048SP 在黑苹果下免驱 超详细刷](https://www.mspace.cc/archives/755)
